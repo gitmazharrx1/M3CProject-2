@@ -1,0 +1,22 @@
+.h-bg{
+    background: #FFFBF0;
+}
+.hfc{
+    color: #FABE4C;
+}
+.himg{
+    height: 300px;
+    width: 300px;
+}
+.cart-img{
+   background-color: #F1F1F1;
+   border-radius: 5px;
+}
+.fimg{
+    height: 90px;
+    width: 90px;
+}
+.last-img{
+    height: 300px;
+    width: 450px;
+}
